@@ -37,4 +37,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fedora/fedora-plain.svg" width=50 title="Fedora Linux" alt="Fedora Linux logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" width=50 title="Microsoft Windows 10" alt="Windows 8 logo that microsoft reused in 8.1 and 10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original.svg" width=50 title="Google Chrome Browser" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width=50 title="Figma" alt="Figma logo" />
 </p>
