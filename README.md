@@ -16,6 +16,8 @@ she/her⚧️ - Front End Developer Student🦋
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width=30 title="JavaScript" alt="JavaScript logo yellow JS" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width=30 title="JavaScript: React.js" alt="React blue logo" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=30 title="CSS: Sass" alt="Sass logo" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kubuntu_logo.svg/1200px-Kubuntu_logo.svg.png" width=30 title="Kubuntu Linux" alt="Kubuntu Linux logo" />
   &nbsp;&nbsp;
