@@ -1,16 +1,10 @@
-<h3>👩🏼‍💻 hiii I'm Ann </h3>
-⚧️she/her - Front End Developer Student🦋
+<h3>👩🏼‍💻 hiii I'm Uri </h3>
+she/her⚧️ - Front End Developer Student🦋
 
-<h3 align="left">👩🏼‍🎨 See more of me here</h3>
+<h3 align="left">👩🏼‍🎨 See more of my code:</h3>
 
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/uriuriuri/" >LinkedIn</a>
-  <a href="https://codepen.io/uributterfly">CodePen</a>
-  
-</p>
-
-#
+<a href="https://codepen.io/uributterfly">CodePen</a> For Small projects - 
+<a href="https://jsfiddle.net/user/uricode/fiddles/">JSFiddle</a> For quicky tests
 
 <h3 align="left">👩🏼‍🏫 Languages && Technologies + 🖥️ Tools</h3>
 
@@ -23,9 +17,7 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width=30 title="JavaScript: React.js" alt="React blue logo" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://assets.ubuntu.com/v1/ce518a18-CoF-2022_solid+O.svg" width=30 title="Ubuntu Linux, main Laptop" alt="New Ubuntu Logo" />
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kubuntu_logo.svg/1200px-Kubuntu_logo.svg.png" width=30 title="Kubuntu Linux, second laptop" alt="Kubuntu Linux logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kubuntu_logo.svg/1200px-Kubuntu_logo.svg.png" width=30 title="Kubuntu Linux" alt="Kubuntu Linux logo" />
   &nbsp;&nbsp;
   <img src="https://www.blogdainformatica.com.br/wp-content/uploads/2021/09/windows-11-logo.png" width=30 title="Microsoft Windows 11" alt="Windows 11 logo" />
   &nbsp;&nbsp;
