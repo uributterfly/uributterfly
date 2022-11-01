@@ -19,11 +19,13 @@ she/her⚧️ - Front End Developer Student🦋
   &nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=30 title="CSS: Sass" alt="Sass logo" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kubuntu_logo.svg/1200px-Kubuntu_logo.svg.png" width=30 title="Kubuntu Linux" alt="Kubuntu Linux logo" />
-  &nbsp;&nbsp;
   <img src="https://www.blogdainformatica.com.br/wp-content/uploads/2021/09/windows-11-logo.png" width=30 title="Microsoft Windows 11" alt="Windows 11 logo" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width=30 title="Visual Studio Code" alt="new visual studio code logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kubuntu_logo.svg/1200px-Kubuntu_logo.svg.png" width=30 title="Kubuntu Linux" alt="Kubuntu Linux logo" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" width=30 title="Visual Studio Code" alt="Visual studio code logo" />
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg" width=30 title="Microsoft Edge Browser" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original.svg" width=30 title="Google Chrome Browser" />
   &nbsp;&nbsp;
