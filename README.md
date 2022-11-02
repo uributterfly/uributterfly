@@ -19,7 +19,7 @@ she/her⚧️ - Front End Developer Student🦋
   &nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width=30 title="CSS: Sass" alt="Sass logo" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.blogdainformatica.com.br/wp-content/uploads/2021/09/windows-11-logo.png" width=30 title="Microsoft Windows 11" alt="Windows 11 logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/2048px-Windows_logo_-_2012_%28dark_blue%29.svg.png" width=30 title="Microsoft Windows 10" alt="Windows 10 logo" />
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kubuntu_logo.svg/1200px-Kubuntu_logo.svg.png" width=30 title="Kubuntu Linux" alt="Kubuntu Linux logo" />
   &nbsp;&nbsp;
