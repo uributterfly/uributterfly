@@ -1,5 +1,5 @@
 <h3>👩🏼‍💻 hiii I'm Miriam </h3>
-she/her⚧️ - Web Developer Student🦋
+she/her ⚧️ - Web Developer🦋
 
 <h3 align="left">👩🏼‍🎨 See more of my code:</h3>
 
