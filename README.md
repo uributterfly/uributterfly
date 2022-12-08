@@ -1,4 +1,4 @@
-<h3>👩🏼‍💻 hiii I'm Miriam </h3>
+<h3>👩🏼‍💻 hiii I'm Uri </h3>
 she/her ⚧️ - Web Developer🦋
 
 <h3 align="left">👩🏼‍🎨 See more of my code:</h3>
